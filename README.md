@@ -1,5 +1,6 @@
-## Hi there 👋
+’I'm Quoc Lap, an iOS/MacOS developer from Vietnam with a passion for Swift programming and backend development using the Vapor framework. I specialize in creating efficient and robust applications, leveraging my expertise in both client-side and server-side technologies. You can connect with me on  or reach out via email at uchihaquoc04@gmail.com.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qlap04)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **qlap04/qlap04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
