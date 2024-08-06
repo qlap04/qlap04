@@ -4,9 +4,9 @@
 
 I'm Quoc Lap, an iOS/MacOS developer from Vietnam with a passion for Swift programming and backend development using the Vapor framework. I specialize in creating efficient and robust applications, leveraging my expertise in both client-side and server-side technologies
 ### Skills and Experience
-* [
-](https://www.pinterest.com/pin/31173422417065488/)![image](https://github.com/user-attachments/assets/21eec30b-df5a-407e-b888-c5a49a5355e8)
-
+* 👨‍💻 Swift, SwiftUI, SwiftData
+* 💨 Vapor
+* ⚙️ Machine Learning
 
 Skills: SWIFT / JAVA / KOTLIN / PYTHON / C++ 
 
