@@ -12,7 +12,7 @@ Skills: SWIFT / JAVA / KOTLIN / PYTHON / C++
 
  You can connect with me on  or reach out https://www.linkedin.com/in/quốc-uchiha-1633822b4/ via email at uchihaquoc04@gmail.com.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qlap04)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qlap04)](https://github.com/qlap04/github-readme-stats)
 <!--
 **qlap04/qlap04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
