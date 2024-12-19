@@ -6,8 +6,7 @@
 <h3 align="center">A passionate fullstack developer/h3>
 
 <br/>
-<h1 align="center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fphp-development&psig=AOvVaw1eI1pVhu5GiGYOhhk0eY04&ust=1734729960001000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNiS6-7itIoDFQAAAAAdAAAAABAJ" />
+<img aligh="center" alt="Coding" width="400" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952n12lsy4ieq9h1x69uepctvfg2jb8qqku79xfd8u2&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 <div align="center">
  
