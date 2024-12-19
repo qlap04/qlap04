@@ -1,8 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=qlap04" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Quoc
-+Lap!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Quoc+Lap!;" />
 </h1>
 
 <h3 align="center">A passionate fullstack developer/h3>
