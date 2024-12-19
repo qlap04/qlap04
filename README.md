@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quoc Lap, Here we go</h1>
 <h3 align="center">A passionate fullstack developer from Vietnam.</h3>
-<img aligh="center" alt="Coding" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952n12lsy4ieq9h1x69uepctvfg2jb8qqku79xfd8u2&ep=v1_gifs_search&rid=200w.gif&ct=g">
-<p align="left" width="100%"> <img src="https://komarev.com/ghpvc/?username=qlap04&label=Profile%20views&color=0e75b6&style=flat" alt="qlap04" /> </p>
+<img aligh="center" alt="Coding" width="100px"src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952n12lsy4ieq9h1x69uepctvfg2jb8qqku79xfd8u2&ep=v1_gifs_search&rid=200w.gif&ct=g">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qlap04&label=Profile%20views&color=0e75b6&style=flat" alt="qlap04" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qlap04" alt="qlap04" /></a> </p>
 
