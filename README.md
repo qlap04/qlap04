@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=qlap04" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=qlap04.qlap04" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Quoc+Lap!;" />
 </h1>
@@ -6,6 +6,8 @@
 <h3 align="center">A passionate fullstack developer/h3>
 
 <br/>
+<h1 align="center">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fphp-development&psig=AOvVaw1eI1pVhu5GiGYOhhk0eY04&ust=1734729960001000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNiS6-7itIoDFQAAAAAdAAAAABAJ" />
 
 <div align="center">
  
