@@ -6,7 +6,6 @@
 </h1>
 
 <h3 align="center">A passionate fullstack developer/h3>
-<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fphp-development&psig=AOvVaw1eI1pVhu5GiGYOhhk0eY04&ust=1734729960001000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNiS6-7itIoDFQAAAAAdAAAAABAJ" />
 
 <br/>
 
@@ -16,7 +15,7 @@
  
  🌱 I’m currently learning **TS, React, Express**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/qlap04)**
 
 ⚡ Fun fact **Cristiano Fan**
 
@@ -53,10 +52,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=qlap04&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=qlap04&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
