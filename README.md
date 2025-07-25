@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quoc Lap, Here we go</h1>
-<h3 align="center">A passionate fullstack developer from Vietnam.</h3>
+<h3 align="center">Turning caffeine into code since forever. 🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳</h3>
 
 ```javascript
 const me = {
@@ -9,7 +9,9 @@ const me = {
 }
 ```
 
-<img aligh="center" alt="Coding" width="800px"src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952n12lsy4ieq9h1x69uepctvfg2jb8qqku79xfd8u2&ep=v1_gifs_search&rid=200w.gif&ct=g">
+<div align="center">
+  <img alt="Coding" width="800px" src="https://media.licdn.com/dms/image/v2/D4D22AQGgtWVsRpV32w/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1730896560809?e=2147483647&v=beta&t=3Z5VgNZdL7dwgX6Uiu7XsAhAIIWZhy-hgvX46wxvCl0" />
+</div>
 <h3 align="center">
   🌐 <a href="https://ql-portfolio-030904.vercel.app/" target="_blank">Visit My Portfolio here</a> 🌐
 </h3>
