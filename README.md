@@ -41,36 +41,40 @@ const me = {
 ### Frameworks & Libraries
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=springboot,nestjs,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,react,npm,sequelize" />
 </div>
 
 ### Databases & Storage
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,supabase" />
 </div>
 
 ### Cloud Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,awslinux,bash,git,firebase" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,bash,git,firebase" />
 </div>
 
 ### Development Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=postman,idea,vscode,vite,devto" />
 </div>
 
 <br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 height=195 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=qlap04&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 height=195 src="https://github-readme-stats-salesp07.vercel.app/api?username=qlap04&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 height=200 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=qlap04&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <img width=325 height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qlap04&theme=dracula"/>
-</div>
+<p align="center">
+  <img width="390" height="195" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=qlap04&count_private=true&theme=tokyonight-duo&border_radius=10" alt="streak stats"/>
+</p>
+
+<p align="center">
+  <img width="390" height="195" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qlap04&theme=nord_bright" alt="readme stats" />
+</p>
+
+<p align="center">
+  <img width="325" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qlap04&theme=nord_bright" alt="top langs" />
+  <img width="325" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qlap04&theme=nord_bright&utcOffset=7.00" alt="productive time"/>
+</p>
   
