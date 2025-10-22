@@ -6,7 +6,7 @@
 ```javascript
 const me = {
   role: "Software Engineer",
-  passion: "Backend Development",
+  passion: "Devops",
   motto: "Learning brings joy, knowledge builds faith"
 }
 ```
