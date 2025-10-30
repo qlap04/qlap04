@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Kai+Dev!;Here+we+go!;" />
 </div>
-<h3 align="center">Turning caffeine into code since forever. 🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳</h3>
+<h3 align="center">Eat. Sleep. Deploy. Repeat. 🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳</h3>
 
 ```javascript
 const me = {
@@ -12,7 +12,7 @@ const me = {
 ```
 
 <div align="center">
-  <img alt="Coding" width="800px" src="https://media.licdn.com/dms/image/v2/D4D22AQGgtWVsRpV32w/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1730896560809?e=2147483647&v=beta&t=3Z5VgNZdL7dwgX6Uiu7XsAhAIIWZhy-hgvX46wxvCl0" />
+  <img alt="Coding" width="800px" src="https://cdn.dribbble.com/userupload/23157155/file/original-6bc189bda990bce165355cc26f36d625.gif" />
 </div>
 <h3 align="center">
   🌐 <a href="https://ql-portfolio-030904.vercel.app/" target="_blank">Visit My Portfolio here</a> 🌐
