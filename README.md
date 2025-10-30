@@ -11,9 +11,10 @@ const me = {
 }
 ```
 
-<div align="center">
-  <img alt="Coding" width="800px" src="https://cdn.dribbble.com/userupload/23157155/file/original-6bc189bda990bce165355cc26f36d625.gif" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/devops.gif" alt="DevOps" width="800"/>
+</p>
+
 <h3 align="center">
   🌐 <a href="https://ql-portfolio-030904.vercel.app/" target="_blank">Visit My Portfolio here</a> 🌐
 </h3>
