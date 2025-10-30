@@ -37,7 +37,7 @@ const me = {
 ### Programming Languages
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,typescript,js,html,css,swift" />
+  <img src="https://skillicons.dev/icons?i=python,java,typescript,js,html,css,swift" />
 </div>
 
 ### Frameworks & Libraries
@@ -52,10 +52,10 @@ const me = {
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,supabase" />
 </div>
 
-### Cloud Tools
+### Cloud & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,bash,git,firebase" />
+  <img src="https://skillicons.dev/icons?i=terraform,git,gitlab,kubernetes,docker,c,vim, azure" />
 </div>
 
 ### Development Tools
