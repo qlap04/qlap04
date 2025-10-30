@@ -12,8 +12,9 @@ const me = {
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/devops.gif" alt="DevOps" width="800"/>
+  <img src="assets/devops.gif" alt="DevOps" width="800"/>
 </p>
+
 
 <h3 align="center">
   🌐 <a href="https://ql-portfolio-030904.vercel.app/" target="_blank">Visit My Portfolio here</a> 🌐
