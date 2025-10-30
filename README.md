@@ -55,7 +55,7 @@ const me = {
 ### Cloud & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=terraform,git,gitlab,kubernetes,docker,c,vim, azure" />
+  <img src="https://skillicons.dev/icons?i=terraform,gitlab,kubernetes,docker,vim,azure" />
 </div>
 
 ### Development Tools
