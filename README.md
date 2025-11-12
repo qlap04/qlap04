@@ -46,13 +46,13 @@ const me = {
 ### Databases & Storage
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,supabase,jenkins" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,supabase" />
 </div>
 
 ### Cloud & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=terraform,gitlab,kubernetes,docker,vim,azure" />
+  <img src="https://skillicons.dev/icons?i=terraform,gitlab,kubernetes,docker,vim,azure,jenkins" />
 </div>
 
 ### Development Tools
