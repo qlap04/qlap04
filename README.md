@@ -16,9 +16,6 @@ const me = {
 </p>
 
 
-<h3 align="center">
-  🌐 <a href="https://ql-portfolio-030904.vercel.app/" target="_blank">Visit My Portfolio here</a> 🌐
-</h3>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=qlap04&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="qlap04" />
   <img src="https://img.shields.io/github/followers/qlap04?label=Followers&style=for-the-badge&color=blue" alt="followers" />
