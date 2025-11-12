@@ -46,7 +46,7 @@ const me = {
 ### Databases & Storage
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,supabase,jenkins" />
 </div>
 
 ### Cloud & Tools
